@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Sudar
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FBShare .1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/fbshare\n"
+"POT-Creation-Date: 2009-10-26 09:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  fbshare.pot (Easy Retweet 1.0)  #-#-#-#-#
+#. Plugin Name of an extension
+#: fbshare.php:60
+msgid "FB Share"
+msgstr ""
+
+#: fbshare.php:86
+msgid "Settings"
+msgstr ""
+
+#: fbshare.php:96
+msgid "plugin"
+msgstr ""
+
+#: fbshare.php:96
+msgid "Version"
+msgstr ""
+
+#: fbshare.php:96
+msgid "by"
+msgstr ""
+
+#: fbshare.php:106
+msgid "FB Share Settings"
+msgstr ""
+
+#: fbshare.php:134
+msgid "Display"
+msgstr ""
+
+#: fbshare.php:136
+msgid "Display the button on pages"
+msgstr ""
+
+#: fbshare.php:137
+msgid "Display the button on archive pages"
+msgstr ""
+
+#: fbshare.php:138
+msgid "Display the button in home page"
+msgstr ""
+
+#: fbshare.php:143
+msgid "Position"
+msgstr ""
+
+#: fbshare.php:145
+msgid "Before the content of your post"
+msgstr ""
+
+#: fbshare.php:146
+msgid "After the content of your post"
+msgstr ""
+
+#: fbshare.php:147
+msgid "Before AND After the content of your post"
+msgstr ""
+
+#: fbshare.php:148
+msgid "Manually call the fbshare button"
+msgstr ""
+
+#: fbshare.php:149
+msgid ""
+"You can manually call the <code>fbshare_button</code> function. E.g. "
+"<code>if (function_exists('fbshare_button')) echo fbshare_button"
+"();."
+msgstr ""
+
+#: fbshare.php:154
+msgid "Type"
+msgstr ""
+
+#: fbshare.php:156
+msgid "Vertical button"
+msgstr ""
+
+#: fbshare.php:157
+msgid "Horizontal button"
+msgstr ""
+
+#: fbshare.php:162
+msgid "Text"
+msgstr ""
+
+#: fbshare.php:165
+msgid "The text that you enter here will be displayed in the button."
+msgstr ""
+
+#: fbshare.php:188
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://staynalive.com/fbshare"
+msgstr ""
+
+#. Description of an extension
+msgid "Adds a FBShare button to your WordPress posts."
+msgstr ""
+
+#. Author of an extension
+msgid "Jesse Stay"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://staynalive.com/"
+msgstr ""
